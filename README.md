@@ -8,16 +8,23 @@
  
 - :bulb: **Libraries and Tools:** Tensorflow, Keras, PyTorch, OpenCV, Apache Spark, ROS
 
-- :floppy_disk: **Main Academic Projects:** [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git) [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git) [![](https://img.shields.io/badge/Others-red)](https://github.com/stefanobinotto?tab=repositories)
-<br/><br/>
+- :floppy_disk: **Academic Projects:** [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
+[![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git) 
+
+- :floppy_disk: **Other Academic Labs and Homeworks:** [![](https://img.shields.io/badge/Big%20Data%20Processing-green)](https://github.com/stefanobinotto/Big-Data-Computing.git)
+[![](https://img.shields.io/badge/Reinforcement%20Learning-orange)](https://github.com/stefanobinotto/Reinforcement-Learning.git)
+[![](https://img.shields.io/badge/Deep%20Learning-red)](https://github.com/stefanobinotto/Deep-Learning.git)
+[![](https://img.shields.io/badge/Artificial%20Intelligence-blue)](https://github.com/stefanobinotto/pneumonia-xray-detection.git)
+[![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)
+[![](https://img.shields.io/badge/Machine%20Learning-purple)](https://github.com/stefanobinotto/Machine-Learning.git)
+
 ![stefanobinotto's github stats](https://github-readme-stats.vercel.app/api?username=stefanobinotto&show_icons=true]&hide=["contribs","prs"]) 
 
 ![](https://komarev.com/ghpvc/?username=stefanobinotto)
 
 <!--
-  
-- 🧠 **Personal Projects:**
-DA AGGIUNGERE
+- 🧠 **Personal Projects:**                DA AGGIUNGERE
+
 
 **stefanobinotto/stefanobinotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
