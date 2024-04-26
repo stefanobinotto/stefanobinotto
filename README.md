@@ -3,7 +3,7 @@
 **`M.Sc in Computer Engineering`**
 <br/><br/>
 
- - Sharing updates on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/stefano-binotto/)
+ - Sharing updates on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stefano-binotto/)
 
 
 In this portfolio you can find some of the projects I've completed during my university studies:
