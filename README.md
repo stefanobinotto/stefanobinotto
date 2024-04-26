@@ -1,8 +1,11 @@
 ### Hi there, I’m Stefano 👋
 
 - :mortar_board: **`M.Sc in Computer Engineering - Artificial Intelligence and Robotics`**
+ 
 - :briefcase: CV on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-binotto/)
+ 
 - :computer: **Programming Languages:** Python, C++, Java
+ 
 - :bulb: **Libraries and Tools:** Tensorflow, Keras, PyTorch, OpenCV, Apache Spark, ROS
 <!-- - :floppy_disk: **Academic**
 <br/><br/>-->
