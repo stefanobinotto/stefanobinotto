@@ -18,13 +18,12 @@
 [![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)
 [![](https://img.shields.io/badge/Machine%20Learning-purple)](https://github.com/stefanobinotto/Machine-Learning.git)
 
-![stefanobinotto's github stats](https://github-readme-stats.vercel.app/api?username=stefanobinotto&show_icons=true]&hide=["contribs","prs"]) 
-
 ![](https://komarev.com/ghpvc/?username=stefanobinotto)
 
 <!--
 - 🧠 **Personal Projects:**                DA AGGIUNGERE
 
+![stefanobinotto's github stats](https://github-readme-stats.vercel.app/api?username=stefanobinotto&show_icons=true]&hide=["contribs","prs"]) 
 
 **stefanobinotto/stefanobinotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
