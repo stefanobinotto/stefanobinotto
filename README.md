@@ -22,6 +22,9 @@
 
 <!--
 - 🧠 **Personal Projects:**                DA AGGIUNGERE
+  📚
+  🚀
+  💻 
 
 ![stefanobinotto's github stats](https://github-readme-stats.vercel.app/api?username=stefanobinotto&show_icons=true]&hide=["contribs","prs"]) 
 
