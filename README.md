@@ -6,7 +6,7 @@
  
 - :computer: **Programming Languages:** Python, C++, Java
  
-- :bulb: **Libraries and Tools:** Tensorflow, Keras, PyTorch, OpenCV, Apache Spark, ROS
+- 🚀 **Libraries and Tools:** Tensorflow, Keras, PyTorch, OpenCV, Apache Spark, ROS
 
 - :floppy_disk: **Academic Projects:** [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git) 
@@ -23,7 +23,7 @@
 <!--
 - 🧠 **Personal Projects:**                DA AGGIUNGERE
   📚
-  🚀
+  :bulb:
   💻 
 
 ![stefanobinotto's github stats](https://github-readme-stats.vercel.app/api?username=stefanobinotto&show_icons=true]&hide=["contribs","prs"]) 
