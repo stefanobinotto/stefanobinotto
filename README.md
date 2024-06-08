@@ -11,7 +11,7 @@
 - :floppy_disk: **Academic Projects:** [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git) 
 
-- :floppy_disk: **Other Academic Labs and Homeworks:** [![](https://img.shields.io/badge/Big%20Data%20Processing-green)](https://github.com/stefanobinotto/Big-Data-Computing.git)
+- :floppy_disk: **Academic Labs and Homeworks:** [![](https://img.shields.io/badge/Big%20Data%20Processing-green)](https://github.com/stefanobinotto/Big-Data-Computing.git)
 [![](https://img.shields.io/badge/Reinforcement%20Learning-orange)](https://github.com/stefanobinotto/Reinforcement-Learning.git)
 [![](https://img.shields.io/badge/Deep%20Learning-red)](https://github.com/stefanobinotto/Deep-Learning.git)
 [![](https://img.shields.io/badge/Artificial%20Intelligence-blue)](https://github.com/stefanobinotto/pneumonia-xray-detection.git)
