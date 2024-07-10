@@ -14,8 +14,8 @@
 [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git)
 [![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)
+[![](https://img.shields.io/badge/Intelligent%20Robotics-cyan)](https://github.com/stefanobinotto/Fetch-and-Delivery-Behaviour-for-an-Assistance-Robot.git)
 
-[![](https://img.shields.io/badge/Intelligent%20Robotics-brown)](https://github.com/stefanobinotto/Fetch-and-Delivery-Behaviour-for-an-Assistance-Robot.git)
 [![](https://img.shields.io/badge/Learning%20From%20Networks-brown)]()
 
 - :floppy_disk: **Academic Labs and Homeworks:**
@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/Reinforcement%20Learning-purple)](https://github.com/stefanobinotto/Reinforcement-Learning.git)
 [![](https://img.shields.io/badge/Deep%20Learning-red)](https://github.com/stefanobinotto/Deep-Learning.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision-course.git)
-[![](https://img.shields.io/badge/Intelligent%20Robotics-brown)](https://github.com/stefanobinotto/Intelligent-Robotics-course.git)
+[![](https://img.shields.io/badge/Intelligent%20Robotics-cyan)](https://github.com/stefanobinotto/Intelligent-Robotics-course.git)
 
 
 
