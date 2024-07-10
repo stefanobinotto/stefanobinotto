@@ -1,6 +1,8 @@
-### Hi there, I’m Stefano 👋
+## Hi there, I’m Stefano 👋
 
-- :mortar_board: **`M.Sc in Computer Engineering - Artificial Intelligence and Robotics @ University of Padova`**
+**`Machine Learning Engineer`**
+
+- :mortar_board: **M.Sc in Computer Engineering - Artificial Intelligence and Robotics @ University of Padova**
  
 - :briefcase: CV on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-binotto/)
  
