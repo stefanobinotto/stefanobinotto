@@ -15,8 +15,7 @@
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git)
 [![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)
 [![](https://img.shields.io/badge/Intelligent%20Robotics-cyan)](https://github.com/stefanobinotto/Fetch-and-Delivery-Behaviour-for-an-Assistance-Robot.git)
-
-[![](https://img.shields.io/badge/Learning%20From%20Networks-brown)]()
+[![](https://img.shields.io/badge/Learning%20From%20Networks-brown)](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features.git)
 
 - :floppy_disk: **Academic Labs and Homeworks:**
 [![](https://img.shields.io/badge/Big%20Data%20Processing-pink)](https://github.com/stefanobinotto/Big-Data-Computing.git)
