@@ -1,6 +1,6 @@
 ## Hi there, I’m Stefano 👋
 
-**`Machine Learning Engineer`**
+<!-- **`Machine Learning Engineer`** -->
 
 - :mortar_board: **M.Sc in Computer Engineering - Artificial Intelligence and Robotics @ University of Padova**
  
