@@ -25,6 +25,7 @@
 [![](https://img.shields.io/badge/Intelligent%20Robotics-cyan)](https://github.com/stefanobinotto/Intelligent-Robotics-course.git)
 [![](https://img.shields.io/badge/Artificial%20Intelligence-blue)](https://github.com/stefanobinotto/pneumonia-xray-detection.git)
 [![](https://img.shields.io/badge/Machine%20Learning-violet)](https://github.com/stefanobinotto/Machine-Learning-course.git)
+[![](https://img.shields.io/badge/3D%20Data%20Processing-yellow)](https://github.com/stefanobinotto/3D-Data-Processing-course.git)
 
 ![](https://komarev.com/ghpvc/?username=stefanobinotto)
 
