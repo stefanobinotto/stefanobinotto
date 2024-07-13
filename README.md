@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git)
 [![](https://img.shields.io/badge/Intelligent%20Robotics-cyan)](https://github.com/stefanobinotto/Fetch-and-Delivery-Behaviour-for-an-Assistance-Robot.git)
-[![](https://img.shields.io/badge/Learning%20From%20Networks-brown)](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features.git)
+[![](https://img.shields.io/badge/Learning%20From%20Networks-brown)](https://github.com/stefanobinotto/Find-Significant-Statistics-and-Relationships-in-Music-Networks-with-Node-Features.git)
 <!--[![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)-->
 
 - :floppy_disk: **Academic Labs and Homeworks:**
