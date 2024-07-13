@@ -18,7 +18,7 @@
 <!--[![](https://img.shields.io/badge/Software%20Engineering-yellow)](https://github.com/stefanobinotto/Ingegneria-del-Software.git)-->
 
 - :floppy_disk: **Academic Labs and Homeworks:**
-[![](https://img.shields.io/badge/Big%20Data%20Processing-pink)](https://github.com/stefanobinotto/Big-Data-Computing.git)
+[![](https://img.shields.io/badge/Big%20Data%20Computing-pink)](https://github.com/stefanobinotto/Big-Data-Computing.git)
 [![](https://img.shields.io/badge/Reinforcement%20Learning-purple)](https://github.com/stefanobinotto/Reinforcement-Learning.git)
 [![](https://img.shields.io/badge/Deep%20Learning-red)](https://github.com/stefanobinotto/Deep-Learning.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision-course.git)
