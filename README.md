@@ -8,7 +8,7 @@
  
 - :computer: **Programming Languages:** Python, C++, Java
  
-- 🚀 **Libraries and Tools:** Tensorflow, Keras, PyTorch, JupyterLab, OpenCV, Apache Spark, ROS
+- 🚀 **Libraries and Tools:** Tensorflow, Keras, PyTorch, Numpy, Scikit-Learn, Pandas, JupyterLab, OpenCV, Apache Spark, ROS
 
 - :floppy_disk: **Academic Projects:**
 [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
