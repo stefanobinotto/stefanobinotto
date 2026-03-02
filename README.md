@@ -10,6 +10,9 @@
  
 - 🚀 **Libraries and Tools:** Tensorflow, Keras, PyTorch, Numpy, Scikit-Learn, Pandas, NetworkX, OpenCV, Apache Spark, ROS
 
+- :floppy_disk: **Research Projects:**
+[![](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-red)](https://github.com/stefanobinotto/Cobot-Task-Scheduling.git)
+
 - :floppy_disk: **Academic Projects:**
 [![](https://img.shields.io/badge/Natural%20Language%20Processing-green)](https://github.com/stefanobinotto/Natural-Language-Processing-NLP.git)
 [![](https://img.shields.io/badge/Computer%20Vision-orange)](https://github.com/stefanobinotto/Computer-Vision.git)
